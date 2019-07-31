@@ -8,6 +8,6 @@ TG_BOT_USER_NAME_BF_HER = "@Zainstechgroup_bot"
 UB_BLACK_LIST_CHAT = [] # chat ids or usernames, it is recommended to use chat ids, 
 # providing usernames means an additional overhead for the user 
 CHATS_TO_MONITOR_FOR_ANTI_FLOOD = [] 
-# specify LOAD and 
-NO_LOAD LOAD = [] 
+# specify LOAD and NO_LOAD 
+LOAD = [] 
 NO_LOAD = []
